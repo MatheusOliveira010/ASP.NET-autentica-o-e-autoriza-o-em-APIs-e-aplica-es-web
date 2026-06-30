@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "ScreenSound.API\\ScreenSound.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ScreenSound.Web\\ScreenSound.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
